@@ -1,0 +1,10 @@
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\geodesy_1.csprojAssemblyReference.cache
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\geodesy_1.csproj.ResolveComReference.cache
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.Form1.resources
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\geodesy_1.csproj.GenerateResource.cache
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\geodesy_1.csproj.CoreCompileInputs.cache
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\Геодезия_1.exe.config
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\Геодезия_1.exe
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\Геодезия_1.pdb
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\Геодезия_1.exe
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\Геодезия_1.pdb

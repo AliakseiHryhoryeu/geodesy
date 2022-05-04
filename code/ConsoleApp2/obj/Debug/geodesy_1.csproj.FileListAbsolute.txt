@@ -1,0 +1,10 @@
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\geodesy_1.csprojAssemblyReference.cache
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\geodesy_1.csproj.ResolveComReference.cache
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.Form1.resources
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\geodesy_1.csproj.GenerateResource.cache
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\geodesy_1.csproj.CoreCompileInputs.cache
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\galek\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
